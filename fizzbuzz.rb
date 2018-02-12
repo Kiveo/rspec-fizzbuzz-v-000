@@ -4,5 +4,5 @@ def fizzbuzz(int)
   else int > 0
     puts "Fizz"
   end
-  
+
 end
