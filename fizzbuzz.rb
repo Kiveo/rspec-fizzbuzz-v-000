@@ -2,7 +2,7 @@ def fizzbuzz(x)
   if x % 5 == 0
     puts "Buzz"
   else
-    puts "nil"
+    puts "nilooo"
   end
 
 end
