@@ -1,6 +1,6 @@
 def fizzbuzz(x)
   if x % 5 == 0
-    puts "Fizz"
+    puts "Buzz"
   end
 
 end
